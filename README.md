@@ -115,11 +115,11 @@ Connect with the developer:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iammuntazirali)
 
 ### Quick Links:
-- **GitHub**: [github.com/yourusername](https://github.com/iammuntazirali)
-- **YouTube**: [youtube.com/@yourchannel](https://youtube.com/@muntazr-ali)
-- **Instagram**: [instagram.com/yourusername](https://instagram.com/iammuntazirali)
-- **X**: [x.com/yourusername](https://x.com/iammuntazirali)
-- **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/iammuntazirali)
+- **GitHub**: [github.com/iammuntazirali](https://github.com/iammuntazirali)
+- **YouTube**: [youtube.com/@muntazir-ali](https://youtube.com/@muntazr-ali)
+- **Instagram**: [instagram.com/iammuntazirali](https://instagram.com/iammuntazirali)
+- **X**: [x.com/iammuntazirali](https://x.com/iammuntazirali)
+- **LinkedIn**: [linkedin.com/in/iammuntazirali](https://linkedin.com/in/iammuntazirali)
 
 ---
 
