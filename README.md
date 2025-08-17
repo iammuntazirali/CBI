@@ -4,14 +4,14 @@ A modern, responsive banking website built with HTML, CSS. This project showcase
 
 ## 📋 Table of Contents
 
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Social Links](#social-links)
+- [Features](#-features)
+- [Technologies Used](#-technologies-used)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Project Structure](#-project-structure)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Social Links](#-social-links)
 
 ## ✨ Features
 
