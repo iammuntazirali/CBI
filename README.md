@@ -5,6 +5,7 @@ A modern, responsive banking website built with HTML, CSS. This project showcase
 ## 📋 Table of Contents
 
 - [Features](#-features)
+- [Technologies Used](#-technologies-used)
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Project Structure](#-project-structure)
@@ -24,7 +25,6 @@ A modern, responsive banking website built with HTML, CSS. This project showcase
 
 - **HTML5**: Semantic markup and structure
 - **CSS3**: Modern styling with Flexbox and Grid
-- **JavaScript**: Interactive functionality
 - **CSS Animations**: Smooth transitions and hover effects
 
 ## 🚀 Installation
