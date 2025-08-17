@@ -2,8 +2,6 @@
 
 A modern, responsive banking website built with HTML, CSS, and JavaScript. This project showcases a professional banking interface with essential features and services.
 
-![Central Bank of India](assets/CENTRALBK.NS-b0f5735a.png)
-
 ## 📋 Table of Contents
 
 - [Features](#-features)
@@ -80,14 +78,6 @@ CBI/
 └── README.md
 ```
 
-## 📸 Screenshots
-
-### Desktop View
-![Desktop View](assets/banner-icon.png)
-
-### Mobile View
-The website is fully responsive and adapts beautifully to mobile devices.
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
@@ -113,13 +103,6 @@ Connect with the developer:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iammuntazirali)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iammuntazirali)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iammuntazirali)
-
-### Quick Links:
-- **GitHub**: [github.com/iammuntazirali](https://github.com/iammuntazirali)
-- **YouTube**: [youtube.com/@muntazir-ali](https://youtube.com/@muntazr-ali)
-- **Instagram**: [instagram.com/iammuntazirali](https://instagram.com/iammuntazirali)
-- **X**: [x.com/iammuntazirali](https://x.com/iammuntazirali)
-- **LinkedIn**: [linkedin.com/in/iammuntazirali](https://linkedin.com/in/iammuntazirali)
 
 ---
 
