@@ -1,0 +1,219 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f5f5f5;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+/* style header */
+header {
+    background: linear-gradient(135deg, #0066cc, #004499);
+    color: white;
+    padding: 20px 0;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.logo img {
+    width: 80px;
+    height: 60px;
+    border-radius: 8px;
+}
+.bank-info h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+}
+/* navigation table */
+.nav-table {
+    border-collapse: collapse;
+}
+.nav-table td {
+    padding: 0 15px;
+    text-align: center;
+}
+.nav-table a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+.nav-table a:hover {
+    color: #070706;
+}
+.nav-table td:nth-child(even) {
+    color: #ccc;
+    font-weight: bold;
+}
+/* main */
+.main-container {
+    display: flex;
+    gap: 30px;
+    max-width: 1200px;
+    margin: 30px auto;
+    padding: 0 20px;
+}
+.banner-section {
+    flex: 2;
+}
+.banner-image img {
+    width: 100%;
+    height: 280px;
+    object-fit: cover;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+.news-section {
+    flex: 1;
+}
+.scrolling-news {
+    background: white;
+    border: 2px solid #0066cc;
+    border-radius: 10px;
+    padding: 20px;
+    height: 300px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+.scrolling-news marquee {
+    height: 100%;
+}
+.scrolling-news p {
+    margin-bottom: 15px;
+    padding: 10px;
+    background: #f8f9fa;
+    border-radius: 5px;
+    border-left: 4px solid #0066cc;
+}
+/* information */
+.info-section {
+    background: white;
+    padding: 40px 0;
+    margin: 30px 0;
+    border-top: 3px solid #0066cc;
+    border-bottom: 3px solid #0066cc;
+}
+.info-section p {
+    margin-bottom: 15px;
+    font-size: 1.1rem;
+    color: #555;
+}
+.info-section ul {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.info-section li {
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+    color: #444;
+}
+/* services  */
+.services-section {
+    background: white;
+    padding: 40px 0;
+    margin: 30px 0;
+}
+.services-section h2 {
+    text-align: center;
+    font-size: 2.5rem;
+    color: #0066cc;
+    margin-bottom: 40px;
+    font-weight: bold;
+}
+.services-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 30px;
+    margin-top: 30px;
+}
+.service-box {
+    background: white;
+    border: 2px solid #0066cc;
+    border-radius: 10px;
+    padding: 25px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+.service-box:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+}
+.service-box h3 {
+    color: #0066cc;
+    font-size: 1.3rem;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+.service-box img {
+    width: 80px;
+    height: 80px;
+    margin: 15px 0;
+    border-radius: 8px;
+}
+.service-box p {
+    color: #666;
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+/* footer */
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 40px;
+}
+/* responsive design */
+@media (max-width: 768px) {
+    .header-container {
+        flex-direction: column;
+        gap: 20px;
+    }
+    .bank-info h1 {
+        font-size: 2rem;
+    }
+    .main-container {
+        flex-direction: column;
+    }
+    .services-grid {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 20px;
+    }
+    .nav-table td {
+        padding: 0 8px;
+    }
+}
+@media (max-width: 480px) {
+    .container {
+        padding: 0 15px;
+    }
+    .bank-info h1 {
+        font-size: 1.8rem;
+    }
+    .services-section h2 {
+        font-size: 2rem;
+    }
+    .nav-table {
+        font-size: 0.9rem;
+    }
+    .nav-table td {
+        padding: 0 5px;
+    }
+}
