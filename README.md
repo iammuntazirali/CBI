@@ -1,6 +1,6 @@
 # 🏦 Central Bank of India - Banking Website
 
-A modern, responsive banking website built with HTML, CSS, and JavaScript. This project showcases a professional banking interface with essential features and services.
+A modern, responsive banking website built with HTML, CSS. This project showcases a professional banking interface with essential features and services.
 
 ## 📋 Table of Contents
 
@@ -9,7 +9,6 @@ A modern, responsive banking website built with HTML, CSS, and JavaScript. This 
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Project Structure](#-project-structure)
-- [Screenshots](#-screenshots)
 - [Contributing](#-contributing)
 - [License](#-license)
 
